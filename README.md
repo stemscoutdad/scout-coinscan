@@ -1,3 +1,5 @@
+<img src="ASSETS/scout_coinscan_logo.svg" width="480" alt="SCOUT CoinScan logo">
+
 # SCOUT CoinScan
 
 **Sorting Coins Optically with UV Technology** — an open-source coin identification, grading-assist, and sorting machine printed on the Snapmaker U1.
