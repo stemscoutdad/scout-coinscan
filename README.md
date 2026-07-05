@@ -23,11 +23,11 @@ Feed it a jar of mixed coins. A U1-printed singulation disk presents one coin at
 ## Repository layout
 
 ```
-cad/        STEP solids + DXF face drawings (disk, platen, brackets, calibration target)
-hardware/   Master BOM (sourced part numbers + links), wiring notes
-firmware/   RP2040 Pico real-time controller (motion, lighting, safety)
-software/   Jetson vision pipeline (capture, classification, OCR, photometric stereo)
-docs/       One-pager, Jetson↔Pico protocol spec, build guide (in progress)
+CAD/        STEP solids + DXF face drawings (disk, platen, brackets, calibration target)
+HARDWARE/   Master BOM (sourced part numbers + links), wiring notes
+DOCS/       One-pager, Jetson↔Pico protocol spec, build guide (in progress)
+FIRMWARE/   RP2040 Pico real-time controller — coming with the July build
+SOFTWARE/   Jetson vision pipeline — coming with the July build
 ```
 
 ## Build tiers
@@ -58,5 +58,6 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 *Project lead: Benjamin Flores (Chula Vista, CA) — machining/fabrication, electronics, and numismatics. This build also anchors STEM programming for a local Scouts BSA troop maker initiative. If this project is useful or interesting to you, a ⭐ helps it in the Innovation Fund community vote!*
+
 
 
