@@ -8,6 +8,10 @@ Entered in the **Snapmaker Innovation Fund · Open Competition Phase 1** (June�
 
 Repo: https://github.com/stemscoutdad/scout-coinscan
 
+![SCOUT-CoinScan concept rendering](RENDERS/machine_annotated_hero.png)
+
+*Concept rendering — 18″ W × 12″ D × 12″ H envelope. Gravity-fed hopper → dual-camera imaging station → software-defined sort bins.*
+
 ---
 
 ## What it does
@@ -60,5 +64,3 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 *Project lead: Benjamin Flores (Chula Vista, CA) — machining/fabrication, electronics, and numismatics. This build also anchors STEM programming for a local Scouts BSA troop maker initiative. If this project is useful or interesting to you, a ⭐ helps it in the Innovation Fund community vote!*
-
-
