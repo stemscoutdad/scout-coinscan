@@ -62,4 +62,3 @@ MIT — see [LICENSE](LICENSE).
 *Project lead: Benjamin Flores (Chula Vista, CA) — machining/fabrication, electronics, and numismatics. This build also anchors STEM programming for a local Scouts BSA troop maker initiative. If this project is useful or interesting to you, a ⭐ helps it in the Innovation Fund community vote!*
 
 
-
