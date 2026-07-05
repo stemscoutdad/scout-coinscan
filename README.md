@@ -4,6 +4,8 @@
 
 Entered in the **Snapmaker Innovation Fund · Open Competition Phase 1** (June–September 2026).
 
+Repo: https://github.com/stemscoutdad/scout-coinscan
+
 ---
 
 ## What it does
@@ -15,7 +17,7 @@ Feed it a jar of mixed coins. A U1-printed singulation disk presents one coin at
 ## Why the U1 specifically
 
 - **Co-printed TPU-on-PETG mechanisms** — hopper double-wiper, brake brushes, gate-paddle facings, V-stop pads, deflector lip: flexible features printed in place, no assembly.
-- **Color as function** — multicolor calibration target, color-coded bins, translucent diffuser ring on an opaque lighting dome.
+- **Color as function** — multicolor drop-in calibration target at the coin plane, color-coded bins, translucent diffuser ring on an opaque lighting dome.
 - **Bed finish as bearing surface** — rail sections printed face-down so the U1's bed finish becomes the coin's low-friction slide surface.
 
 ## Repository layout
@@ -56,4 +58,5 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 *Project lead: Benjamin Flores (Chula Vista, CA) — machining/fabrication, electronics, and numismatics. This build also anchors STEM programming for a local Scouts BSA troop maker initiative. If this project is useful or interesting to you, a ⭐ helps it in the Innovation Fund community vote!*
+
 
